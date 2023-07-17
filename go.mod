@@ -1,4 +1,4 @@
-module github.com/devlovcash/devlovcash.github.io/tree/master
+module github.com/devlovcash/news-app.github.io/tree/main
 
 go 1.20
 
